@@ -1,15 +1,13 @@
 ### Date created
-Include the date you created this project and README file.
+May 15th, 2020
 
 ### Project Title
-Replace the Project Title
-
+US Bike Sharing Project
 ### Description
 Describe what your project is about and what it does
-
+In this project, I made a use of Python to explore data related to bike share systems for three major cities in the United States, Which is Chicago, New York City, and Washington, Also to Run statistics on multiple data pools related to bicycle sharing.
 ### Files used
-Include the files used
+Following files are containing necessary code: bikeshare.py Following files are not uploded to the remote repo (by using .gitignore) because the file size is too big: chicago.csv washington.csv new_york_city.csv 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+The original repo this one is forked from can be found here: https://github.com/udacity/pdsnd_github.git
