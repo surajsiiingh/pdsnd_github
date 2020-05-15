@@ -1,6 +1,8 @@
 ### Date created
 May 15th, 2020
 
+## Prequristic
+python 3
 ### Project Title
 US Bike Sharing Project
 ### Description
