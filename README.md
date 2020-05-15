@@ -1,15 +1,18 @@
 ### Date created
-Include the date you created this project and README file.
+20 may 2020
 
 ### Project Title
-Replace the Project Title
+US Bikesharing 
 
 ### Description
-Describe what your project is about and what it does
+we have used the data of bikesharing data in united states across three cities and analyze the data.
 
 ### Files used
-Include the files used
+3 Files used 
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+chicago.csv
+new_york_city.csv
+washington.csv
+
+
 
