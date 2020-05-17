@@ -1,9 +1,14 @@
 ### Date created
+<<<<<<< HEAD
 May 15th, 2020
+=======
+16 may 2020
+>>>>>>> refactoring
 
-## Prequristic
+## Prerequisite
 python 3
 ### Project Title
+<<<<<<< HEAD
 US Bike Sharing Project
 ### Description
 Describe what your project is about and what it does
@@ -13,3 +18,19 @@ Following files are containing necessary code: bikeshare.py Following files are 
 
 ### Credits
 The original repo this one is forked from can be found here: https://github.com/udacity/pdsnd_github.git
+=======
+US Bikesharing 
+
+### Description
+we have used the data of bikesharing data in united states across three cities and analyze the data.
+
+### Files used
+3 Files used 
+
+chicago.csv
+new_york_city.csv
+washington.csv
+
+
+
+>>>>>>> refactoring
